@@ -25,6 +25,10 @@ result = index(min, max)
 print(*result)
 
 
+
+
+
+
         
 
 
